@@ -16,6 +16,7 @@ kuisagari: false
 japanese: "四槓子"
 romaji: "suukantsu"
 korean: "스깡쯔"
+firing_rate: "불가능에 가까움"
 date_created: "2026-03-05"
 date_modified: "2026-03-05"
 status: draft
@@ -74,6 +75,7 @@ status: draft
 - 의도적으로 노리기보다는 깡이 3회 이상 자연스럽게 발생했을 때 추가로 노리는 형태가 현실적이다.
 - 3번째 깡이 성공하면 상대 플레이어들은 4번째 깡의 대상패를 절대 버리지 않으려 한다.
 - 안깡 중심으로 진행하면 상대에게 읽히기 어렵다.
+- 만약 4번의 깡 전부를 안깡으로 했다면, 스안커와 함께 인정된다.
 
 ## 관련 역
 

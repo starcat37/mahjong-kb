@@ -16,6 +16,7 @@ kuisagari: false
 japanese: "四暗刻"
 romaji: "suuankou"
 korean: "스안커"
+firing_rate: "0.48%"
 date_created: "2026-03-05"
 date_modified: "2026-03-05"
 status: draft

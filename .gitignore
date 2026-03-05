@@ -1,0 +1,27 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# Python (Phase 3+)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# ChromaDB
+chroma_db/
+
+# Raw sources
+raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
